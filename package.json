@@ -1,0 +1,24 @@
+{
+  "name": "pwa-pratique",
+  "version": "1.0.0",
+  "description": "Cours pwa\r # Mise a jour\r Projet creer le \r #### 16/09/2021 \r en\r #### M2 DFS CORSE",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server --port=3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noxyz20/pwa-pratique.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noxyz20/pwa-pratique/issues"
+  },
+  "homepage": "https://github.com/noxyz20/pwa-pratique#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
