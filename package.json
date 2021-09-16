@@ -21,6 +21,7 @@
   "homepage": "https://github.com/noxyz20/pwa-pratique#readme",
   "dependencies": {
     "json-server": "^0.16.3",
-    "live-server": "^1.2.1"
+    "live-server": "^1.2.1",
+    "web-push": "^3.4.5"
   }
 }
