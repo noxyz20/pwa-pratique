@@ -46,3 +46,9 @@ button {
     margin-top: 10px;
     border: Opx;
 }
+/* Home */
+.card {
+    max-width: 400px;
+    width: 100%;
+    margin-bottom: 10px;
+}
